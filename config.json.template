@@ -1,0 +1,221 @@
+{
+  "nick": "brwikiedits",
+  "accounts": [
+    {
+      "consumer_key": "",
+      "consumer_secret": "",
+      "access_token": "",
+      "access_token_secret": "",
+      "template": "'{{{page}}}' editada a partir da rede {{{name}}} - {{&url}}",
+      "throttle": false,
+      "namespaces": ["article", "file", "media", "main"],
+      "ranges": {
+        "do Senado Federal (@SenadoFederal)": [
+          "201.54.48/20",
+          "187.54.195.0/25"
+        ],
+        "do Supremo Tribunal Federal (@STF_Oficial)": [
+          "201.49.144/21"
+        ],
+        "da Câmara dos Deputados (@CamaraDeputados)": [
+          "200.219.132/22"
+        ],
+        "do Tribunal de Contas da União (@TCUOficial)": [
+          "189.114.57.128/25",
+          "189.21.130.128/25"
+        ],
+        "do Serpro (@SERPRO)": [
+          "161.148/16",
+          "200.198.192/18"
+        ],
+        "do Banco Central do Brasil (@BancoCentralBR)": [
+          "200.218.208/20"
+        ],
+        "do Banco do Brasil (@BancodoBrasil)": [
+          "170.66/16",
+          "198.184.161/24",
+          "201.33.144/20"
+        ],
+        "da Caixa Econômica Federal (@Caixa)": [
+          "200.201.160/20"
+        ],
+        "da Polícia Federal (@AgenciaPF)": [
+          "200.169.32/20"
+        ],
+        "da Petrobras (@Petrobras)": [
+          "164.85/16"
+        ],
+        "da Dataprev (@Dataprev)": [
+          "200.152.32/20"
+        ],
+        "do Presidência da República": [
+          "189.9.37.0/24"
+        ],
+        "da Imprensa Nacional/Presidência da República": [
+          "200.198.216.0/26"
+        ],
+        "do Ministério da Saúde (@MinSaude)": [
+          "189.28.128/20"
+        ],
+        "do Ministério Público Federal (@MPF_PGR)": [
+          "200.142.0/18"
+        ],
+        "do Ministério Público Militar": [
+          "200.142.4.0/25"
+        ],
+        "do Ministério Público do Trabalho (@MPT_PGT)": [
+          "200.142.2/23"
+        ],
+        "do Ministério do Desenvolvimento, Indústria e Comércio Exterior (@MDICGov)": [
+          "200.198.192.0/25"
+        ],
+        "do Ministério de Relações Exteriores (@ItamaratyGovBR)": [
+          "201.36.109/24",
+          "201.73.190.0/26"
+        ],
+        "do Ministério da Defesa (@DefesaGovBR)": [
+          "200.198.193.128/27"
+        ],
+        "do Ministério da Educação (@MEC_Comunicacao)": [
+          "200.130.2/24"
+        ],
+        "do Ministério do Planejamento, Orçamento e Gestão (@PlanejamentoBR)": [
+          "200.198.196.0/25",
+          "200.198.196.128/26"
+        ],
+        "do Ministério do Trabalho e Emprego (@TrabalhoGovBR)": [
+          "177.43.84.0/26",
+          "200.198.216.64/26"
+        ],
+        "do Ministério do Meio Ambiente (@MMeioAmbiente)": [
+          "189.85.84.0/26"
+        ],
+        "do Ministério das Comunicações": [
+          "177.15.130.0/26"
+        ],
+        "do Ministério do Esporte (@MinEsporte)": [
+          "200.198.193.96/27"
+        ],
+        "do Ministério da Justiça (@JusticaGovBR)": [
+          "189.9.0.64/26"
+        ],
+        "do Ministério do Turismo (@MTurismo)": [
+          "189.9.52.0/26"
+        ],
+        "do Ministério de Minas e Energia (@Minas_Energia)": [
+          "177.43.69.128/25"
+        ],
+        "do Conselho Nacional de Justiça (@CNJ_Oficial)": [
+          "186.215.69.192/26"
+        ],
+        "do Conselho da Justiça Federal (@CJF_Oficial)": [
+          "201.49.156/23"
+        ],
+        /*"do Ministério da Cultura (@CulturaGovBR)": [
+          "200.198.204.64/27"
+        ],*/
+        "do Conselho Nacional de Justiça (@CNJ_Oficial)": [
+          "186.215.69.192/26"
+        ],
+        "do Conselho da Justiça Federal": [
+          "201.49.156/23"
+        ],
+        "da Polícia Rodoviária Federal (@191PRFNacional)": [
+          "200.252.24/24",
+          "201.39.251.48/28",
+          "189.9.13.192/26",
+          "189.9.0.128/26"
+        ],
+        "do Ipea (@IpeaOnline)": [
+          "189.21.130.0/26"
+        ],
+        "do Inep (@Inep_Imprensa)": [
+          "200.130.24/24"
+        ],
+        "do Cade": [
+          "200.198.193.160/27"
+        ],
+        "do BNDES (@BNDES_Imprensa)": [
+          "200.244.52.64/26",
+          "200.244.52.0/26",
+          "201.18.18.0/25"
+        ],
+        "da Telebras": [
+          "177.14/15",
+          "177.88/16",
+          "201.18.18.0/25"
+        ],
+        "do Tribunal Superior do Trabalho (@TST_Oficial)": [
+          "201.49.154/23",
+          "177.135.255.128/25"
+        ],
+        "do Tribunal Superior Eleitoral (@TSEJusBR)": [
+          "189.59.75/24",
+          "187.4.152/24",
+          "189.125.47/24"
+        ],
+        "do Superior Tribunal de Justiça (@STJNoticias)": [
+          "186.215.82.192/26"
+        ],
+        "do Banco do Nordeste (@ImprensaBNB)": [
+          "200.217.154/24",
+          "187.110.227/24"
+        ],
+        "da Agência Nacional de Transportes Aquaviários": [
+          "200.198.217.192/28"
+        ],
+        "do Instituto Nacional de Pesquisas Espaciais (@INPE_MCT)": [
+          "150.163/16"
+        ],
+        "da Operador Nacional do Sistema Elétrico": [
+          "177.128.117/24"
+        ],
+        "da Companhia Nacional de Abastecimento (@Conab_2015)": [
+          "200.198.220.96/27"
+        ],
+        "dos Correios": [
+          "200.252.60/24",
+          "200.228.16/24"
+        ],
+        "do Incra (@Incra_Oficial)": [
+          "200.252.80/23"
+        ],
+        "da ABIN": [
+          "200.198.220.0/27"
+        ],
+        "do CNPq (@CNPq_Oficial)": [
+          "200.130.32/23"
+        ],
+        "da Advocacia-Geral da União (@AdvocaciaGeral)": [
+          "186.231.10.0/25",
+          "189.44.66/24"
+        ],
+        "da Defensoria Pública da União (@ImprensaDPU)": [
+          "200.214.186.80/28"
+        ],
+        "do Fundo Nacional de Saúde": [
+          "200.252.215.128/26"
+        ],
+        "do Instituto Nacional de Meteorologia": [
+          "200.252.241/24",
+          "200.252.242/24"
+        ],
+        "da Agência Brasileira de Desenvolvimento Industrial": [
+          "201.73.188.224/28"
+        ],
+        "do Instituto Brasileiro de Museus": [
+          "189.9.1.160/27"
+        ],
+        "da ANEEL": [
+          "200.198.220.128/25"
+        ],
+        "da Codevasf (@Codevasf)": [
+          "177.135.252.192/26"
+        ],
+        "do Departamento Nacional de Produção Mineral": [
+          "200.198.193.224/27"
+        ]
+      }
+    }
+  ]
+}
