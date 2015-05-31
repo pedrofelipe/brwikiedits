@@ -19,6 +19,7 @@
   },
   "scripts": {
     "test": "mocha --colors --reporter spec --compilers coffee:coffee-script/register test.coffee",
-    "start": "coffee anon.coffee"
+    "start": "coffee anon.coffee",
+    "preinstall": "test ! -f 'config.json' && cp config.json.template config.json"
   }
 }
